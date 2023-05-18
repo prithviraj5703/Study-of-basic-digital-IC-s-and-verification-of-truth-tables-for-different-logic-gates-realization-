@@ -61,7 +61,7 @@ Check all the gates following the same procedure.
 
 
  ## Program:
-
+```python
 module gates(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -73,18 +73,14 @@ xnor(y5,a,b);
 nand(y6,a,b);
 nor(y7,a,b);
 endmodule
-
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
- ## Developed by: RAGUL R
-## RegisterNumber:  212222100040
+ ## Developed by: prithviraj
+## RegisterNumber:  212222100038
 ## Logic symbol & Truthtable
-![Screenshot 2023-04-06 123003](https://user-images.githubusercontent.com/112475766/230299904-3aaa3495-1e95-4c88-9456-e7c5dabcfb86.png)
-
-## Output:
-![Screenshot 2023-04-06 123039](https://user-images.githubusercontent.com/112475766/230300023-55c5769f-44a3-4af6-bd95-f8ce5ece646a.png)
-
-## WAVEFORM
-![Screenshot 2023-04-06 123112](https://user-images.githubusercontent.com/112475766/230300124-795fb165-9c23-4558-b71f-b8de4dc2fcf6.png)
+![dl2](https://github.com/prithviraj5703/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121418418/8b8f2f7b-2b73-4c6a-91ab-f633cefa38fc)
+#output
+![de1](https://github.com/prithviraj5703/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121418418/aa080a3b-d8ff-4ee2-9b52-515bd1b9772f)
 
 
 Result:
